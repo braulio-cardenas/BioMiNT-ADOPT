@@ -22,3 +22,18 @@
  CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, 
  OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE 
  USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+ For permission to use for commercial purposes, please contact UCSB’s 
+ Office of Technology & Industry Alliances at 805-893-5180 or info@tia.ucsb.edu.
+
+ Original file: main.m
+ Modifications by Braulio Cardenas-Benitez
+ 04/30/2024
+
+ Description of your modifications:
+ - Excerpt from code main.m was taken and modified to perform image deblurring.
+
+ This is a Matlab script for reconstructing FPS-OPT data as described in:
+   K. G. Chan and M. Liebling, "Direct inversion algorithm for focal plane 
+   scanning optical projection tomography," in Biomedical Optics Express, 
+   vol. 8, no. 11, pp. 5349-5358, 2017." 
