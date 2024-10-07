@@ -4,7 +4,6 @@ function [strCell] = tickLabelAlternated(vect)
 % Its purpose is to be used within a ticklabel function
 % 
 
-% strMatrix = arrayfun(@(x) num2str(x), vect, 'uniformOutput', 'false');
 strCell = arrayfun(@(x) num2str(x), vect, 'uniformOutput', 0);
 
 Nend = numel(strCell);
